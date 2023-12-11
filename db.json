@@ -1,0 +1,94 @@
+{
+  "jobs": [
+    {
+      "id": 6,
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "3/1/2024"
+    },
+    {
+      "id": 7,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "1/17/2021"
+    },
+    {
+      "id": 8,
+      "position": "Marketing Manager",
+      "company": "Coca Cola",
+      "location": "İstanbul/Levent",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "9/12/2020"
+    },
+    {
+      "id": 9,
+      "position": "Software Tester",
+      "company": "IBM",
+      "location": "Ankara/Çankaya",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "3/28/2023"
+    },
+    {
+      "id": 10,
+      "position": "Data Analyst",
+      "company": "Facebook",
+      "location": "Menlo Park",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "date": "3/28/2023"
+    },
+    {
+      "position": "React Natie",
+      "company": "CGI",
+      "location": "Uzaktan",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "id": "c5556876-e3f3-4e90-a98a-553864d9aa17",
+      "date": "10/2/2023"
+    },
+    {
+      "position": "Frontend",
+      "company": "Udemy",
+      "location": "New York",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "f7547b59-aff1-46a7-8cb7-0fead8f63614",
+      "date": "11/30/2023"
+    },
+    {
+      "position": "Frontend",
+      "company": "Mimcode",
+      "location": "İstanbul",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "id": "724b6fbe-3d2d-42b1-81ff-a6d877a6c005",
+      "date": "11.12.2023"
+    },
+    {
+      "position": "Frontend",
+      "company": "Mimcode",
+      "location": "İstanbul",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "e6ac2f36-6d4f-4d88-9146-a785d1a2af79",
+      "date": "11.12.2023"
+    },
+    {
+      "position": "Frontend",
+      "company": "Mimcode",
+      "location": "İstanbul",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "id": "6b5f2176-326b-4f63-b395-afa28af56cfb",
+      "date": "11.12.2023"
+    }
+  ]
+}
